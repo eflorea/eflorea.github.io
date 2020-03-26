@@ -57,23 +57,35 @@
             border-spacing: 0;
         }
 
-        main {
-            display: flex;
-            flex-wrap: wrap;
-            max-width: 960px;
+       body {
+          background-color: black;
+          background-image: radial-gradient(rgba(0, 150, 0, 0.75), black 120%);
+          height: 100vh;
+          margin: 0;
+          overflow: hidden;
+          padding: 2rem;
+          color: white;
+          font: 1.3rem Inconsolata, monospace;
+          text-shadow: 0 0 5px #C8C8C8;
+        }
+        body::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100vw;
+          height: 100vh;
+          background: repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15) 1px, transparent 1px, transparent 2px);
+          pointer-events: none;
         }
 
-        .column {
-            width: 25%;
+        ::selection {
+          background: #0080FF;
+          text-shadow: none;
         }
-        .column-2 {
-            width: 50%;
-        }
-        .column-3 {
-            width: 75%;
-        }
-        .column-4 {
-            width: 100%;
+
+        pre {
+          margin: 0;
         }
     </style>
 
