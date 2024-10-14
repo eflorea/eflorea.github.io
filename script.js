@@ -1,7 +1,9 @@
 document.body.classList.add('js-enabled');
 
 const consoleElement = document.getElementById('dynamic-console');
-const text = `Full-Stack Engineer, WordPress Specialist, AWS Architect, and Creative DIY Enthusiast
+const text = `Eduard Florea
+
+Full-Stack Engineer, WordPress Specialist, AWS Architect, and Creative DIY Enthusiast
 
 As a seasoned PHP and WordPress professional, I create custom, high-performance solutions with a full-stack approach. My expertise spans a wide array of technologies, including React, Node, AWS, MySQL, Python, and AI-driven automation. Whether it's building dynamic applications or architecting robust cloud infrastructures, I bring comprehensive technical knowledge to every project.
 
