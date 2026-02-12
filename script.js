@@ -3,13 +3,13 @@ document.body.classList.add('js-enabled');
 const consoleElement = document.getElementById('dynamic-console');
 const text = `Eduard Florea
 
-Full-Stack Engineer, WordPress Specialist, AWS Architect, and Creative DIY Enthusiast
+I build fast, scalable web platforms across full-stack systems (React, Node, PHP, MySQL) and enterprise CMS ecosystems. My recent work focuses heavily on edge-first architecture — using Cloudflare Workers, caching strategy, and modern cloud patterns to deliver secure, cost-efficient performance at scale.
 
-As a seasoned PHP and WordPress professional, I create custom, high-performance solutions with a full-stack approach. My expertise spans a wide array of technologies, including React, Node, AWS, MySQL, Python, and AI-driven automation. Whether it's building dynamic applications or architecting robust cloud infrastructures, I bring comprehensive technical knowledge to every project.
+I'm at my best when the requirements are messy, the legacy system is fragile, and the launch date is non-negotiable — turning complexity into systems that feel simple to use and boring to operate (in the best way).
 
-In addition to my engineering work, I channel creativity through publishing humor-driven comic books like <a href="https://store.florea.com/products/women-decoded">"Women Decoded: A Man's Survival Handbook"</a>, hands-on DIY projects, and building board games that reflect my passion for problem-solving and innovation.
+Outside of client work, I build and ship independent products and tools, and I'm always experimenting with AI-assisted automation, workflows, and product ideas.
 
-Whether it’s coding, AI, cloud architecture, or creative endeavors, I deliver results with a unique blend of professionalism and a touch of humor.
+I also channel creativity through publishing humor-driven comic books (including <a href="https://womendecodedbook.com">Women Decoded</a>), hands-on DIY projects, and building board games — because the best engineers don't just solve problems, they enjoy them.
 
 <a href="https://www.linkedin.com/in/eduardflorea/" target="_blank">View resume</a>`;
 
